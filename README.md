@@ -1,7 +1,7 @@
 # Ticket Dashboard Application
 
 ## Overview
-A SwiftUI-based ticket management dashboard for tracking user-based ticket balances, expirations, and check-ins, with JSON import/export support.
+A ticket management dashboard for tracking user-based ticket balances, expirations, and check-ins, with data import/export support.
 
 ---
 
@@ -11,7 +11,6 @@ A SwiftUI-based ticket management dashboard for tracking user-based ticket balan
   - Create and store user ticket records
   - Track remaining ticket counts
   - Record purchase and expiration dates
-  - Store QR code data per ticket
 
 - **Check-In Tracking**
   - Mark daily check-ins
