@@ -1,15 +1,15 @@
-# Ticket Dashboard Application
+# Membership Dashboard Application
 
 ## Overview
-A ticket management dashboard for tracking user-based ticket balances, expirations, and check-ins, with data import/export support.
+A membership management dashboard for tracking user-based membership balances, expirations, and check-ins, with data import/export support.
 
 ---
 
 ## Core Uses
 
-- **Ticket Management**
-  - Create and store user ticket records
-  - Track remaining ticket counts
+- **Membership Management**
+  - Create and store user membership records
+  - Track remaining membership counts
   - Record purchase and expiration dates
 
 - **Check-In Tracking**
@@ -19,19 +19,19 @@ A ticket management dashboard for tracking user-based ticket balances, expiratio
 
 - **Expiration Monitoring**
   - Visual indicators for:
-    - Expired tickets
-    - Tickets expiring within 7 days
-  - Auto-evaluation of ticket expiration
-  - Hide expired or inactive tickets from dashboard
+    - Expired memberships
+    - Memberships expiring within 7 days
+  - Auto-evaluation of membership expiration
+  - Hide expired or inactive memberships from dashboard
 
 - **Search & Filtering**
-  - Search tickets by user name
-  - Hide specific tickets from dashboard view
+  - Search memberships by user name
+  - Hide specific memberships from dashboard view
   - Full list view for complete dataset access
 
 - **Data Portability**
-  - Export tickets to JSON backup file
-  - Import tickets from JSON file
+  - Export memberships to JSON backup file
+  - Import memberships from JSON file
   - ISO 8601 date encoding/decoding
 
 ---
@@ -45,7 +45,7 @@ A ticket management dashboard for tracking user-based ticket balances, expiratio
 
 - **Event or Venue Operators**
   - Track entry passes
-  - Manage ticket usage and guest passes
+  - Manage membership usage and guest passes
 
 - **Membership-Based Businesses**
   - Yoga studios
@@ -54,15 +54,15 @@ A ticket management dashboard for tracking user-based ticket balances, expiratio
   - Training facilities
 
 - **Small Business Owners**
-  - Simple internal ticket/session tracking without complex POS systems
+  - Simple internal membership/session tracking without complex POS systems
 
 ---
 
 ## Value Proposition
 
-- Lightweight ticket tracking system  
+- Lightweight membership tracking system  
 - Clear dashboard visibility  
 - Quick check-in workflow  
 - Simple data backup and restore  
 - Designed for operational efficiency in recurring-visit businesses  
-# TicketsTracker
+
